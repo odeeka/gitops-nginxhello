@@ -1,0 +1,1 @@
+{"jobID":"4df82509-980c-fb8c-0c3f-45829bed8c62","spec":{"type":"policy","cause":{"Message":"","User":"admin_pet \u003cptibor@netbuild.hu\u003e"},"spec":{"default:deployment/nginxhello":{"add":{"automated":"true"},"remove":{}}}},"result":null}
